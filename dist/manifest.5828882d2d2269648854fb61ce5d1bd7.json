@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.1db7f0b5cbd256e6e78eed01751a8907.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.4d4e2fe3d3ae20631026b925f40a9f5f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.dac7b6a7682bdefc4085b24b41772d9c.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.a944d6324aed9286b0bd3d5b4f3ed7e3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.6d45d3393e6cab5af3058d46bd46a3b0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.e14e34fff341cd20ebd127ad18de0375.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Restaurant App",
+  "short_name": "Restaurant Apps",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Restaurant Apps for Find Any Restaurant",
+  "background_color": "#ffffff"
+}
